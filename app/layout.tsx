@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "English Vocabulary Learning - 20 Questions",
   description: "Learn English vocabulary through a 20 Questions style game organized by CEFR topics",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
