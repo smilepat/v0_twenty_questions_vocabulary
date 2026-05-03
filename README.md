@@ -1,3 +1,9 @@
+> 📦 **Archived 2026-05-03** — v0.dev 실험 모듈 (1년 prototyping 단계)
+> **후속 코어**: [vocab-cat-test](https://github.com/smilepat/vocab-cat-test)
+> **재사용 가능 자산**: 20문항 어휘 진단 패턴
+> **Unarchive**: `gh repo unarchive smilepat/<name>`
+
+---
 # 스무고개-어휘학습
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
